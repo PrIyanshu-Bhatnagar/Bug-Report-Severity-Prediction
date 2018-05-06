@@ -1,6 +1,8 @@
 from mrjob.job import MRJob
 import re
 import random
+from datetime import datetime
+import sys
 
 """Regex of a Word in a file.
 """
@@ -32,4 +34,8 @@ class CountofSeverityJob(MRJob):
 
 
 if __name__ == '__main__':
+    start_time = datetime.now()
     CountofSeverityJob.run()
+    end_time = datetime.now()
+    elapsed_time = end_time - start_time
+    sys.stderr.write(str(elapsed_time))

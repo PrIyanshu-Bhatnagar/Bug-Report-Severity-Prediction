@@ -4,6 +4,8 @@ import re
 import random
 import nltk
 from nltk.stem import WordNetLemmatizer
+from datetime import datetime
+import sys
 
 # nltk.download('stopwords')
 # nltk.download('punkt')
@@ -34,4 +36,8 @@ class NormalizedBagofWordsInBugReport(MRJob):
 
 
 if __name__ == '__main__':
+    start_time = datetime.now()
     NormalizedBagofWordsInBugReport.run()
+    end_time = datetime.now()
+    elapsed_time = end_time - start_time
+    sys.stderr.write(str(elapsed_time))
