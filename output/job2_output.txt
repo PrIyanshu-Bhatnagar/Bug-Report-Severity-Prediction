@@ -1,0 +1,10 @@
+"trivial"	7715
+"major"	35921
+"minor"	19452
+"normal"	272633
+""	1
+"\tcritical"	1
+"\tmajor"	1
+"blocker"	3698
+"critical"	31954
+"enhancement"	23426
