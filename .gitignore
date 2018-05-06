@@ -128,10 +128,6 @@ pyvenv.cfg
 [Tt]cl
 pip-selfcheck.json
 
-
-
-# Created by https://www.gitignore.io/api/visualstudiocode
-
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
@@ -139,10 +135,6 @@ pip-selfcheck.json
 !.vscode/launch.json
 !.vscode/extensions.json
 .history
-
-
-# End of https://www.gitignore.io/api/visualstudiocode
-
 
 # End of https://www.gitignore.io/api/venv,python,virtualenv
 
