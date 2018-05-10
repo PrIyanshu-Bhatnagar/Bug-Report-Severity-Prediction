@@ -1,0 +1,668 @@
+818		debugging output obfuscating query		normal
+858		JavaScript and Java (and plugins?  All executable content?) auto-disable per-domain RFE		normal
+785		Crash in DidBuildModel()		normal
+930		Unordered lists markers do not rendering correctly when nested		normal
+977		CSS font-style: italics shows as normal text		normal
+983		CSS color: RGB 6digit aqua shows as black		normal
+939		"Save Link As" Problem		normal
+974		CSS font-size: "ex" is showing as xxsmall		normal
+1040		CSS vertical-align		normal
+1097		crypto.SignText() problem		major
+1164		the ABSMIDDLE tag is not being supported		normal
+998		in-line frames are not rendered correctly		normal
+775		<img> with HSPACE attribute reports incorrect size		normal
+1223		This page crashes NGLayout		critical
+1252		javascript and frames: document.open causes gp-trap		major
+1260		Rendering barfs on Slashdot comments		normal
+1288		quotes + apostrophes comming out as wrong character		normal
+1289		table frame extends too low		normal
+1290		javascript browser detection not work		normal
+1291		repeated minimize and maximize causes crash		normal
+786		Use of rowspan causes link to be nonclickable in embedded table 		normal
+1258		incorrect display		normal
+815		We shouldn't process content inside <NOSCRIPT> tags		normal
+1320		Clicking on links on this URL breaks layout; doesn't load link		major
+1308		NGLayout pukes on this table intensive page; overlapping content		normal
+1224		This frameset page never appears		critical
+1463		XPViewer sucks resources resizing/maximizing on win95		critical
+1379		crash because table frame has a displayType of inline		critical
+1427		Image maps are not clickable		major
+1256		2 problems, 1 is a crash		critical
+1490		trying to start browser buster gets ugly rendering		normal
+854		We aren't incrementally laying out large lists		normal
+1533		FTP URLs crash 11.23.98 XPViewer App on Win98		major
+1549		crash on bogus urls (xpviewer and viewer)		major
+1420		opening a local file with an image crashes		critical
+1502		assertion in line layout		critical
+1527		Crash occurs in loading up the file with background info.		major
+599		FTP directories not displaying		normal
+737		Problems with file:/// url navigation and generated directory		normal
+797		OBJECT element alternate content is not displayed		normal
+1088		URLImpl Locking Overhead		normal
+1114		we need to stop eating the stuff inside of IFRAME's		normal
+1146		the DOM memory leak is enourmous...		major
+1157		AVI and WAV OBJECTs won't play but crash instead		critical
+1241		GetFirstChild crashes		normal
+1292		onkeypress event doesn't work		normal
+1294		onclick event handler doesn't work		normal
+1356		Bogus Image URL (relative) crashes NGLayout		critical
+1365		"Freeing mismatched memory " error reported from purify		normal
+1485		document with many linked stylesheets won't load		normal
+1504		Memory leak of select element		normal
+1513		parser creating bad document		normal
+1532		intermittant hang --  looks like an infinite loop		normal
+1417		Plugin handling code creates temporary files but they are never deleted		minor
+1520		Main table does not render		normal
+1521		Background does not render.		normal
+1529		plain text file regression...		normal
+1535		Top ad banner and animated gif do not lay out		normal
+1540		Special character symbol not being displayed correctly.		normal
+714		CSS: using the float property makes the page look scrambled		normal
+1375		Crash in Parser after visiting page with plugin		major
+1486		This frameset page doesn't show all content; resizes strangely		normal
+1506		www.smh.com.au crash		critical
+745		url interrupts cause crash		normal
+1553		gif does not lay out across table		minor
+613		hitting submit button causes re-entrancy crash		normal
+1590		Links with <p> tags in them brewak incorrectly		normal
+1576		ss: Default Home Page not loading on xpviewer/win95 11/23a		normal
+1588		ss: site #55 has banner/table layout problems		normal
+1067		layout wrong		normal
+1226		Absolutely positioned form controls have wrong view and don't render		normal
+1629		Contextual Find Crashes on Second usage		critical
+1631		Freze during page loading		major
+1592		xpviewer is unresponsive while loading the lower banner		normal
+1638		ss: Layout of ftp page is extremely slow, slower than NOVA		critical
+1647		ss: netcenter promo page layout is incorrect		normal
+1607		ss: www.hotfiles.com is missing the left blue bar.		normal
+1637		ss: ftp pages are displayed with improper formatting, no breaks		major
+1600		ss: tucows.com can crash on Win 95, doesn't display images		normal
+1627		Still leaks in xpviewer and viewer on win95		normal
+1665		ss: quote.com doesn't load because of faulty redirect		normal
+1608		ss:page looks like it went through a paper shredder		major
+1613		ss:Clicking the back button after visiting the hotwired site will cause a crash.		critical
+1658		ss: Graphic defects, sporadic crashing at rsac.org		major
+1616		Links are no underlined.		minor
+1474		table #2 on test4 renders incorrectly		normal
+1699		ss:terrible layout of the latest news from mozilla.org		major
+1266		line break not happening where it should, maxElementSize wrong?		major
+958		disabled attribute not implemented on form elements		normal
+1718		browser unable to reproduce page with search info		normal
+1722		Table empty cells and border collapsing do not display properly		normal
+915		this page triggered an assertion in the table code		normal
+1691		Shouldn't we mimic having the Java pref turned off?		normal
+1413		Clicking on link causes reflow over floats		major
+1753		Tables layout incompletely		normal
+1732		link won't show up properly		normal
+1623		Table outline cut off.		normal
+1610		Table column does not lay out.		normal
+985		Crash viewer every time I go to this location		normal
+1906		<caption> tag not working		normal
+1933		table displays incorrectly - <hr> seems to create a new row		minor
+1941		xmlbooks demo crash on dom access		normal
+1948		lots of resource files not there for linux		minor
+661		Plug-ins don't work in release build		normal
+1416		Plugin initialization problem(?), crashes		critical
+1784		Table background tiles across page		normal
+1378		margin problems		normal
+1302		minor table snafu on this page when viewed using NGViewer		trivial
+2020		<TD BACKGROUND> ignores <BASE HREF> in resolving URL		normal
+2079		display busted		major
+1355		Background images in tables don't tile correctly		normal
+2087		[PP] Forms buttons drawn black until mouse-over		normal
+2088		[PP] Password revealed in form password entry field		normal
+2113		The site looked messed up		normal
+727		Two tables nested in the same <TD>, of the same dimensions, render differently		normal
+2124		content overlaps in table cells		normal
+2138		[PP] The CvtURL test app doesn't exist on mac		normal
+2137		[PP] The BitTest test app doesn't exist on mac		normal
+2132		Mac DNS Lookup is Synchronous		normal
+1946		[PP] fe_GetConfigDir needs implementation		normal
+2120		Form controls don't scroll when page scrolls		normal
+579		CSS First-letter selector doesn't work		normal
+1797		GPF		critical
+2126		Crash when minimized and some bad layout		normal
+2242		minimize window crashes viewer		normal
+1204		backgrounds not painting correctly		normal
+2123		right-hand table border rendered too thickly on this site		normal
+2289		[PP] Infoworld crashes Viewer		critical
+2379		Only top portion (header) of Microsoft page is rendered, the rest is not displayed.		major
+2378		The latest build fails to load pages		critical
+2382		pp:Disney site doesn't load in Viewer app.		major
+2381		[PP] App hangs - does not load		major
+2387		[PP] Image at top is only object that loads		major
+2388		[PP] Page does not load		major
+2390		[PP] Only object that loads on page is the top table		major
+2029		Assert in ContainsStyleSheet()		critical
+2393		[PP] http://www.go2net.com/index.html - Page does not load		major
+2419		Rendering a strong tag add vertical space to that line of text.		minor
+2363		All Javascript code is removed from html!		critical
+1821		CSS Letter Spacing		minor
+2206		[PP] Mac - Simple Mouse down on page causes page reflow		major
+1958		Submitting form does not send all info to server		major
+2623		www.sony.com crashes after ~30 seconds idle time		major
+2504		Form elements don't look like links to the user.		enhancement
+2704		Pages not displaying		major
+2777		 TEXTAREA elements do not render before forms		major
+454		codepage 1252 quote characters not mapped properly		trivial
+2318		"Table button" crash		critical
+2749		Comments are incorrectly parsed: <!-- -- --> inside comment! <!-- -- -->		minor
+1464		Need OS option of Win 98 in Bugzilla 		major
+2236		Test9 Crashes viewerDebug on the Mac every time.		major
+2865		With editor mode on and switching to another page, attempting to select text causes a crash		major
+2946		Page does not display at all!		major
+2981		Image alignment problem		major
+2983		[pp] Leaving this page causes application to hang		critical
+3016		99020415: Incorrect layout in intel.com image		minor
+2834		A crash occurs when attempting to copy selected text.		critical
+1793		parser bug		major
+3090		Viewer crashes on accessig www.microsoft.com		major
+2980		Layout speed is not acceptable for this page		major
+2909		Dr. Watson comes up stating that there was an application error with gecko.exe		major
+937		Http Uploads fork splitting, not on IE4		critical
+3026		990204[PP]: Text appears too large for column		trivial
+2979		Stylesheet problem: microsoft is using:HREF="/global/start_NS4_new.css"		major
+819		crashes...		major
+3345		javascript handler when clicking an image does not get called		major
+3285		javascript gives wrong answer for values in a form		major
+3340		javascript gives wrong selectedIndex for a list		major
+3387		Pressing a submit button crashes browswer		major
+3400		size attribute on bottons has no effect		minor
+3405		Mac crashes going to webpages not on local disk		critical
+3403		Mac crashes near startup in gfx		critical
+1815		This page does not render correctly		minor
+2928		Annoying loss of information.		trivial
+3470		selecting any file menu option crashes app		critical
+1596		viewer and xpviewer crash on this page		major
+804		Crash, bang, boom.		major
+2330		Bookmarks file crashes viewer		critical
+3553		Linux: Linux do not work.		major
+3582		Redirects dont work 		major
+2824		hairy threading issue		critical
+3631		need charCode field of the nsKeyEvent struct filled in when key event received		critical
+2782		incremental content update causes crash		critical
+3511		Need key code -> character code translation		major
+3557		Unable to layout page due to pixmap = null		major
+2476		Assertion during page load		critical
+273		Menu speed wrong for custom menus. (Like bookmarks)		trivial
+2475		Tables in CSS <div> do not render correctly		critical
+3676		Can't close bookmarks window		critical
+1609		main topic area completely empty		major
+3694		Crash from cgi activation from clickthru ad at this page		critical
+2804		[PP]: Freeze on load about 80% of the time this URL		major
+2650		pop-down menus not rendering		major
+2343		[I18n] No preferences to set fonts.		critical
+3819		Viewer.exe does not display Japanese page 		critical
+1764		Text flow around images not working		major
+3853		[PP BLOCK] Linux infinite redraw loop		major
+3883		Kinsoku problem | Line cannot begin with A7-AF and 829F-8396 characters 		major
+3094		Layout problem with filled table cells		major
+3913		CSS does not display Japanese characters 		major
+2326		Javascript console freezes machine		critical
+3821		Pressing Enter adds character in the URL control		minor
+3870		DOM: HTMLHeadElement.profile string returning blank 		major
+3978		Mac warnings on toolbar button clicks		critical
+4025		no horizontal scrollbar, vertical scrollbar not always available		major
+4027		WRAP attribut ignored for TEXTAREA		minor
+3788		Crash trying to login to cnn custom news		critical
+4156		Click on Insert Stuff icon causes a crash		major
+3980		Buffer boundary problem		major
+4043		CSS problem-does not display Japanese characters		major
+2341		[I18n]No encoding menu.		critical
+4048		Hankaku Katakana kinsoku does not work		major
+4151		Doesn't run at all		major
+3656		pre width attribute is not honored		major
+4127		MLK:  We are leaking the entire WebShell		critical
+4227		Can't access Lotus Notes/Domion generated pages, or displays them incorrect.		minor
+3882		Error handling MS Themes?		major
+3693		any reflowing will cause "bogus" spaces to be inserted in the		critical
+3998		Crash rendering textarea or button?		major
+4095		Can't resize screen		critical
+4270		Random starup crashes realted to component manager		critical
+3712		Hitting return at the end of a line, before a blank line doesn't appear to day anything		major
+1517		minimum width of floating elements		enhancement
+4122		Apprunner/viewer does not display plane XML !!!		critical
+2863		 multiple select boxes on the print.html page do not display with borders		major
+4390		Need extensions to transaction manager to support Japanese Input		major
+4408		bgcolor="papaya whip" draws as black on Mac		minor
+4433		[win32opt] apprunner crash on startup		critical
+3713		Crashes before loading target page		major
+3714		Crashes before loading target page		major
+4521		type, hit Enter, get asserts that look serious		major
+4240		Kinsoku does not work in the link		major
+4584		InsertImage displays alternate text and crashes		critical
+4681		Reloading the page will display as squares 		major
+4661		InsertImage fails to load image and displays alternate text		critical
+4651		Apr 7 build causes extreme system instability on Win 98		critical
+4769		Banner is the wrong color and the buttons are spaced		minor
+4800		Apprunner will crash when loading Netscape Korean and Chinese page		major
+4725		Japanese Bookmark titles are garbage 		major
+3793		got a SIGSEV while running apprunner from the CVS.		critical
+4103		apprunner segfaults with file|new browser window		critical
+3317		crash when element selected		major
+4939		Mac OS crashes and dies after printing from Gecko		critical
+4883		Apprunner frequently crashing in CalcOffset		critical
+4875		When printing the fonts are defaulted to an Ariel font		major
+4018		App quits/crashes access page with embedded plugin content		critical
+4583		em and en dashes not displaying under linux		minor
+4630		Frames dont resize properly		major
+4631		gcc 2.7.2.3 barfage on wallet.cpp		critical
+4760		Linux only: smart quotes drawn way too far above the line		minor
+4805		Crash from corrupt history file		major
+4808		No error feedback going to nonexistant url		major
+4860		Linux only: Selected text not deselected when URL selected		minor
+4730		FONT FACE problem-this page is truncated		major
+4357		ftp is broken = crash		critical
+2621		Local URLs for STYLESHEET LINKs kills viewer		major
+3629		Autoregistration problems on the mac		major
+3926		No scrollbars displayed on Mac TEXTAREAs		minor
+4244		Option-Close in Apprunner w/>1 window yields a crash		major
+4777		M4:  cannot do multiple selection of menulist		major
+4787		Mac only: Select multiple draws scrollbar (it shouldn't)		minor
+4943		Selecting "Messenger" from "Tasks" window results in a blank window		major
+4946		<P> tag used as spacers between <LI> tags in unordered lists		minor
+4878		Win only: Image in table truncated		minor
+5070		Linux apprunner dies on startup in nsXULDocument.cpp		critical
+5087		Clicking on Wallet Contents crashes app. Recorded on Talkback but sent in error before getting ID number.		critical
+5102		Clicking on Tasks/Messenger crashes Apprunner. Talkback ID# DNP05FNI		critical
+3021		990204: Hang when dropdown box at intel.com is used		major
+5117		Enable AppleEvents in seamonkey		enhancement
+5147		Button sequence causes crash		critical
+5129		[BLOCKED]Apprunner dies when starting a dialog with a table		critical
+4909		when preferences window is resized window is not refreshed		minor
+5263		crash in style/frame code		major
+5247		  mailto:-targets in xml:link XML links does not open a messenger window		major
+2453		Queries: Setting a string to "" but requesting regexp causes error		minor
+5405		Horrible		major
+5423		can't type into url bar		critical
+5035		crash when going to Debug menu click test10; test11; test10		critical
+5408		Images don't display when viewing wire.ap.org; netlib?		major
+4907		File - New - Blank Page opens new browser window instead		minor
+5488		iso-8859-2 charset not rendered correctly		minor
+5443		Window.open() method Crashes Viewer as well as apprunner.		critical
+5528		sun.com page has unexpected purple lines showing between left column's menu items.		minor
+5534		Insert Link dialog crashes		critical
+5578		GetFolder: Crash when using the target folder "User Pick"		critical
+2477		form having tables inside tables which contain form elements cause crash		critical
+5498		[PP] mac only: lfs in textareas go across 2 lines, not 1		minor
+5043		[PP] Text fields have disabled appearance after losing focus		minor
+5637		Selecting a related link from sidebar crashes apprunner		critical
+5742		Crash Winnt4.0J -Loading this page causes Apprunner crashes		critical
+4275		Random startup crashes related to component manager		critical
+5830		problem with missing image, size, and no alt tag ...		minor
+5775		[4.xP] JPEG images not seamlessly spaced		minor
+5836		National languages not support correctly.		critical
+5936		[block:editor]SELECT onChange JavaScript hanlder doesn't work right		blocker
+5949		Frequent resizing of window causes apprunner to stop drawing		blocker
+6132		No links are functional		critical
+5940		[BLOCK] Crash in nsUnicharStreamLoader		blocker
+6128		apprunner built 1999-05-06 just dumps core		blocker
+5993		[BLOCKED] nsHTMLInputElement has a pointer to nsIWidget		blocker
+6081		Title graphics do not show		minor
+5062		[PP]Apprunner crash on Win 95, Win NT and Win 98. Talkback ID#DMSO8AAQ		critical
+1865		Animated Backgrounds		minor
+6346		form submission no longer works		critical
+6367		Forms not submitting		blocker
+6398		Fix for UMR found by Purify		minor
+6443		Can't type period in Win mail compose window		minor
+6442		[PP] Can't type apostrophe in Win mail compose window		minor
+6233		type attribute of <ul> tag not working correctly		minor
+6553		[PP] Broken image icon only displayed on Win32		minor
+4522		ummm..lists have 1. 1. 1. 1.		minor
+6598		lchiang's system: start apprunner w/certain prefs50.js - crash		critical
+4832		right floating elements bigger than parent touch wrong edge		minor
+1049		CSS list-style-position not supported		enhancement
+6663		Stopper - Mac build - crashes on start up		blocker
+6867		[Blocker]Events being delivered to the wrong window 		blocker
+1046		CSS word-spacing and letter-spacing		enhancement
+6896		Windows editor interpres the '.' key as a forward delete		blocker
+1515		dotted borders		enhancement
+6934		Frequent start-up crashes in raptorgfxwin.dll		critical
+7038		Forbidden rrror and not the right display of the background		critical
+3247		:before and :after pseudo-elements		enhancement
+6654		<P> tags in links break links		minor
+7279		Browser not loading initial page or any url's		blocker
+7246		GTK Edit & Buttons not changing theme		trivial
+6293		window.open() fails to load URL on current window name		blocker
+7155		view | character set | mac roman displays twice		trivial
+7442		Combo boxes crashing big time		critical
+7414		Crash on launch Apprunner M6 build		critical
+7356		Bootup Crash		blocker
+7156		view | character set | baltic rim… should read baltic…		trivial
+7592		Selecting a "drop-down" menu item effects crash		critical
+7096		display of partial background image can obscure text		minor
+4395		Crash on page resize - PPC unmapped mem exception at TrimRect		critical
+7590		Crash on startup		critical
+7380		Support all prefs on a URL by URL basis.		enhancement
+7898		[PP] Linux - must depress button to change focus in menus		minor
+4604		alert(), confirm(), prompt() enhancement		enhancement
+7887		Luser Request: End jerk-motion of image loading		enhancement
+8094		jwz's ego aligned left - it should be centered		minor
+8069		Cookie text appearing above banners of bug lists in MSIE 5.0 		trivial
+7763		need to include xpinstall.js in Mac build		critical
+6700		going to aka results in a DOS window full of "https://"		minor
+7674		Incorrect password entry char for INPUT TYPE="PASSWORD" form element		trivial
+8254		Parser crashes on External DTDs don't have doctype declaration header 		blocker
+8295		[PP]Profile Manager does not come up with 1999-06-15-14 build		critical
+5060		{DOGFOOD BLOCK] My netscape does not layout properly		blocker
+8313		Down arrow no longer extant in vertical scrollbar		minor
+8382		Gecko freeze		critical
+8428		very nasty crash when apprunner starts up. 		blocker
+8476		trying to select text blocks Mozilla 		blocker
+8496		Crash on startup in mailnews.dll - nsComponentManager.cpp		critical
+8530		Enhancement to reject cookies with excessive lifetime		enhancement
+8463		Easy-to-integrate DSSL engine in Mozilla...		enhancement
+5013		Spacing/Layout flaw		minor
+6306		CSS link pseudo-classes do not work without element name for unknown DTDs		enhancement
+5846		[4.xP] Quirk: </BR> tag (?) not supported		enhancement
+4771		To small		minor
+8191		[4.xP] Color in table cells incorrect		trivial
+8413		symbol _vt.8ofstream.3ios: referenced symbol not found		blocker
+7901		When form is submitted, contents move to the left		minor
+6072		Doesn't catch the background		minor
+8645		Throbber doesn't throb		critical
+8745		[STARTUP PERF] libreg too slow on mac		critical
+8711		[REGRESSION] Double version renders incorrectly		blocker
+8424		Crash loading Scopus		critical
+7987		Cell elements overmarch to adjacent column		trivial
+8082		ignores the 'dont show this message again popup' + popup box is 'messed up'		minor
+8408		Parser crashes into loading big DTD file (>=11k)		critical
+6979		whe file | open is selected, dialog not dismissed		minor
+4325		display:table-cell on HEAD and BODY not very successful		minor
+8676		Adjacent floating images anomalously spaced on the vertical		minor
+8115		QA Partner does not work on Mac with Apprunner 1999061408		blocker
+3106		Mac doesn't auto-register XPCOM factories		critical
+6343		Can't run.		blocker
+7043		focus lost on editfields while typing in it		critical
+7739		[PP]Folder and file not created after running a_adddelcomp.jar		critical
+5539		webevents.microsoft.com has minor problems drawing text and blue table border.		minor
+9010		The beast has chewed and regurgitated this tabular page		critical
+9114		nsDOMEvent::GetScreenX/Y() doesn't work on macOS		blocker
+8032		page testing table display types crashes viewer and apprunner		critical
+7144		first bookmark added to sidebar has different icon		trivial
+9014		[PP] Win32 - Column labels in sidebar drawn too wide...		minor
+9108		Personal ToolBar disapper		minor
+9160		[crash][pp]mouseover the back button creates empty windows 		critical
+8591		Unitless numbers are not ignored		minor
+8879		Should skipped content nodes (<style> and <script>) really contain content?		enhancement
+1516		small-caps scaling factor		enhancement
+8310		Javascript non-functional in complex application		blocker
+9216		Crashes on loading pm.xul		blocker
+1916		8 Values for the Cursor Property (CSS2) do not work		trivial
+9288		Crashing when opening mailnews window		blocker
+8470		<base target=> tag does not work		blocker
+8192		[PP] Mac - clicking on resize window handle resizes window		minor
+8495		With sidebar open, left side of page is covered by the bar and is not accessible, even with the horizontal scroll bar		trivial
+9266		mozilla crashes selecting debug menu in edit mode		blocker
+5610		Inaccurate rendering of pixel sized frames		trivial
+9694		[PP] middle click+drag on scrollbar doesn't move up/down like nav4		minor
+9628		sched: Handle effects of Necko landing on Linux		enhancement
+7037		The URL field gets garbled sometimes		minor
+7036		Push buttons do not show properly		minor
+8811		ALT text larger than bounds which contain it		minor
+9749		save in html editor changes <pre> from original file		minor
+9631		sched: XUL-based specification of size,title, resizability, modality.		enhancement
+420		a <select> doesnt show up as the document background color		trivial
+9624		sched: Embedding APIs 		enhancement
+9961		Unicode -> EUC-KR converter 		enhancement
+9666		sched: Cursor support: Mac		enhancement
+9669		sched: Mac Clipboard- Image Support		enhancement
+9670		sched: Mac Clipboard- Streams for large data sets		enhancement
+10108		display error		trivial
+10325		Copy/Paste is busted		blocker
+10346		x error and segfault on startup 		blocker
+10395		min/max-width should cause margin recalculation		minor
+9497		on startup, hangs: failure to load file://../navigator.xul on linux with necko enabled		blocker
+9596		Electric fence mod for mozilla/xpcom/typelib/xpt/tools/xpt_link		trivial
+9668		sched: Cursor support: Linux		enhancement
+9140		<area> tag doesn't support onMouseOver commands		minor
+10276		proxies don't work (?)		blocker
+9292		mozilla won't start!		blocker
+10783		Clicking OK in Confirm Save Wallet Contents dialog causes crash		blocker
+8803		undefined iostream symbols when trying any of the milestone releases		blocker
+10797		[PP] Messenger hangs trying to send or recieve mail		blocker
+10765		"Related Links" does not open list of related sites.		blocker
+8425		When apprunner loads URLs, NT lists app as 'not responding'		minor
+5783		Need handler for mime type text/css		enhancement
+10913		[enhancement] reload button sugestions		enhancement
+7431		Create logging tool to detect new preferences and preferences without default values		enhancement
+11142		saving wallet info hangs apprunner		blocker
+10210		Registry Packing is not implemented		blocker
+11230		Active links should be red		minor
+10650		Crash on startup if any gtk theme is activated		minor
+8552		translation of the bugzilla page wont work		blocker
+11261		Profile Manager buttons not functioning properly...		blocker
+11338		XP Menus behaviour nuances		minor
+10956		Pref migration will require ResetUserPrefs() API		enhancement
+10909		GFX-rendered widgets are ugly!		minor
+11577		reading from <any frame>.location causes function to exit sliently		blocker
+11328		Table-Based Query Screen		enhancement
+11632		Save Page With Images		enhancement
+10467		Can't traverse down disk		minor
+11953		OnDocumentEnd not firing		blocker
+9677		sched: Toolbox D&D:Grippies need to initiate drags 		enhancement
+9237		Text in adjacent cells misaligned (visually)		trivial
+581		CSS "must have" fonts cursive and fantasy aren't supported		minor
+7275		RFE: option to hide image download placeholders		trivial
+12475		[Blocker] TextBox and Select objects not holding values with apprunner.		blocker
+465		Add preference to use PORT ftp instead of PASV ftp		enhancement
+12640		M9 apprunner and viewer.app crash system when started		blocker
+12274		[RFE] Browser should look ahead and cache [frequently visited] sites automatically		enhancement
+12926		When bug x mentioned in bug y, write this is bug x.		enhancement
+12078		Should be able to control which toolbars are displayed		enhancement
+1749		searching all fields		enhancement
+2656		Include an "enter new bug" link at http://bugzilla.mozilla.org/post_bug.cgi		enhancement
+9562		Plug-in height and width do not function		minor
+3371		should support CSS2 system fonts		enhancement
+13474		external processes/filters for textareas		enhancement
+13495		html:input inside of tree widget has height that is too small		blocker
+12783		Tables overlapped		minor
+12775		Strikethrough is different, and harder to read.		enhancement
+13016		QA-Menu and The @-letter		trivial
+12213		Home key does nothing		minor
+13879		Multiple carets display in browser		minor
+13924		Import IE cookies too.		enhancement
+13877		Finish button active in first pane of Profile Manager		minor
+9625		sched: Fix nsiEventQueue		enhancement
+14020		Crash in password dialog		blocker
+5119		The DD tag has some interesting results.		minor
+1878		Horizontal positioning differs from Navigator		minor
+7235		loading local xul file into browser doesn't show string in location field		minor
+14206		Crash-Printing Latin1 page		blocker
+13706		[PP][BLOCKER] Apprunner Forms fail to send data from Child window		blocker
+13873		Extraneous white space inserted into pasted CGI URL 		minor
+14271		Period key mapped to forward-delete		enhancement
+11872		Selecting through a fixed-position DIV is visually discontiguous		minor
+14470		crash 		blocker
+14436		It's not HTTP/1.1 compliant		enhancement
+14478		insert object dialogs do not appear		blocker
+14471		Applying a color to text will cause a crash		blocker
+14493		can't backspace in url bar		blocker
+4289		MLK: nsToolkit leaks a GC		minor
+14526		Page source editor		enhancement
+14532		Netscape		trivial
+13856		some characters not working for type-in		blocker
+14501		intermittant crash		blocker
+8823		Include a find bug link on the bug updated page		enhancement
+14857		'ondblclick' handlers fail to fire in tree control		blocker
+14982		{css1} trailing spaces on line break increase line height!		minor
+15000		Want a way to apply a class to a tag		enhancement
+14835		Image selection hilight		enhancement
+15145		Don't animate images.		enhancement
+15144		Toolbar button repository.		enhancement
+14007		Table overflow width not taking into account the scrollbar width		minor
+4301		Cannot start two sessions of Communicator that use different profiles		enhancement
+15405		Root element is stretching to fit the viewport		minor
+15183		content with \n does not layout correctly (is too wide)		minor
+15316		H1 has more space after it than it should		minor
+12520		GFX select elements need to be able to turn off text selection		blocker
+15665		Gecko Closes		minor
+15731		Latin 1 chars, "&lang" and "&rang" fail to get displayed 		minor
+15703		Pages don't load write.		blocker
+15675		The submit button does not work here.		minor
+11956		Key Press events are not being generated correctly		blocker
+15965		Reporter name on CC list.		trivial
+16119		[PP]CreateProfileWizard will not create profile, ProfileMigrator will not migrate		blocker
+15856		[DOGFOOD] open location dialog doesn't ever go to the page		blocker
+15708		IME inoperative on mac after window loses focus once.		blocker
+9665		sched: Cursor support: define xp api		enhancement
+9657		sched: Tree D&D - Drag Feedback		enhancement
+14026		Copy/Paste/Cut (etc) disabled in today's build		blocker
+16486		[DOGFOOD] Copy and Paste are broken		blocker
+16409		invoke spell check in browser window		enhancement
+16506		CSSLoader::LoadAgentSheet - failed to get converter stream
+		blocker
+16126		[BLOCKER] setting the value of a textarea in a form from a function is not working		blocker
+16573		[CRASH] [BLOCKER] javascript assertion in table regression tests		blocker
+16709		[Blocker] MsgCompose Adressing Widget loose data when scroll up!		blocker
+16209		M9 mozregistry.dat crashes with M10; registry format changed		blocker
+16832		window.confirm() crashes.		blocker
+16905		[4.x] First character in text field highlights, even if nonexistent		trivial
+15463		[PP] linux only Password dialog displays characters ! and - when typing in password that includes these characters		blocker
+13807		setting window.title is broken		blocker
+16381		RFE: Need to be able to specify -moz-border-radius for each corner		enhancement
+16769		Not a bug-report; demand for ColorSync-support		enhancement
+14131		[DOGFOOD][PP]Linux: popups not working in modal dialogs (combo boxes and colorpicker)		blocker
+17088		[BLOCKER][TESTCASE]Can not submit same form second time to same cgi if we call same page from cgi again.		blocker
+12770		placeholder box pseudo-element needed		minor
+16743		Whine when due is due for fix before depended bugs.		enhancement
+17150		Context-Sensitive Menus 		minor
+17026		[BLOCKER]DOM is unable to see objects		blocker
+17500		Viewsource is broken...		blocker
+17534		CSS Editor		enhancement
+17553		Enhancement: Find and replace within mail HTML editor		enhancement
+17673		[Dpgfood] IME disabled in the subject (plain text & HTML) and body text window (Plain Text only)		blocker
+17881		Windows event loop cleanup		minor
+13592		directory.xul file shows up briefly in URL field on ftp load		minor
+17995		[BLOCKER]Browser crasheson Safe Form Fill		blocker
+18188		Limited cookie access		enhancement
+9676		sched: Tooltips in treeview		enhancement
+9643		sched: Register callbacks with Gtk		enhancement
+7630		form at this url does not work: http://developer.java.sun.com/servlet/SessionServlet?action=showLogin&url=/servlet/SessionServlet		blocker
+17519		selects showing up with wrong thing initially selected		blocker
+18046		nsISelectionController needs IDL and implementation finished		blocker
+16212		Controls don't work before style sheet is applied		minor
+17557		Build: 1999102808 cases page fault error		blocker
+9658		sched: Tree D&D - Drop Before/After/On		enhancement
+18570		[BLOCKER] [DOGFOOD] cannot run table regression tests bad 		blocker
+18638		[DOGFOOD]		blocker
+18574		are there plans to implement MNG (Animated PNG images)?		enhancement
+18649		ScrollFrameIntoView and SCROLL_ONLY_IF_NOT_FULLY_VISIBLE		enhancement
+18679		Adobe Acrobat Plug-in Crashes M10 Build 		blocker
+18764		RFE: Full rfc2557 MHTML multipart/related support in BROWSER 		enhancement
+18779		 displaying textual data inside .GIG and .PNGfiles		enhancement
+18345		[CRASH][BLOCKER] Browser crashes on startup if you have more than 100 bookmarks in the same menu		blocker
+19191		Mac: Text selection not per HIG		trivial
+19446		Key-combo to move focus to Location Bar ( ALT+L ? )		enhancement
+19981		Place marker for focus/keybinding blockers		blocker
+20016		Mouseover buttons within a menu.		trivial
+15927		No proxy authentication		blocker
+20161		Crashing in delete in nsBoxFrame		blocker
+20225		Need focus from eventstatemanager		blocker
+16274		Proxy problem		blocker
+18961		View HTTP headers		enhancement
+17474		[blocker]html and input buttons do not obey CSS width,height		blocker
+20504		[Dogfood] Printing Crashes in the nsViewManager		blocker
+18712		Improve error handling for JS errors reported to Install.log		enhancement
+13157		xoom pages not displaying		blocker
+13168		Solaris SPARC'S "help" key is a NOP		enhancement
+16995		[RFE] Close/open loop for animated GIFs with right-click		enhancement
+19430		Image Map Editor		enhancement
+10551		FTP time data incorrect		trivial
+21459		Can not submit form onLoad event.		blocker
+21647		Dropping chrome.rdf into locale/ causes funky new window on Windows and hang on Linux		blocker
+17245		Transparent menu allows buttons to appear.		trivial
+14944		{moz-css} -moz-rounded-corners and uneven border-styles		trivial
+21069		Solid vs. Transparent Highlight		enhancement
+18722		XSLT makes the world go 'round.		enhancement
+18768		implement keyboard shortcuts from 4.*		enhancement
+20009		No way to sort file:/// pages by Type		enhancement
+21985		open any file		enhancement
+20844		Implement compression of network cache data		enhancement
+20845		Implement read-only "extension-caches"		enhancement
+21095		Implement browsing of cache contents		enhancement
+21578		[Perf] Implement a "flat-file" cache database		enhancement
+21141		{feature} Composer should be able to insert/edit title attributes		enhancement
+16051		Link-select dashed outline does not border text properly		trivial
+11155		Support bug flags.		enhancement
+20867		i play with css and noticed these incompatibilities		trivial
+8877		AppRunner wants to support window z-order		enhancement
+17914		[RFE] Make progressmeter more skinnable		enhancement
+21986		displaying estimated download time more realisticly.		enhancement
+22184		Use Tilde key to toggle sidebar		enhancement
+22620		Browser menu, and scroll bar don't use system colors.		trivial
+20582		<HR>rules are not obeying the CSS padding of the <BODY>		trivial
+9620		sched: Filter by format Mac: Put filter in dialog		enhancement
+9621		sched: Filter by format (mac) Specify file format		enhancement
+22879		Download window should contain alert-when-finished checkbox		enhancement
+22526		make enter to submit page		trivial
+23844		{css1}:first-letter{float:left;} -> alignment too low 		enhancement
+22775		middle button scrolling		enhancement
+23807		Feature request: I-use-this-OS fake preference		enhancement
+2707		should be able to enter several comma-seperated values 		enhancement
+18136		Fixing the font size mess		enhancement
+24623		2 minor problems just little anoying things 		trivial
+24649		hover in effect when popup menu is opeaaa		enhancement
+18175		[PATCH]event target debugging		enhancement
+19217		Text of URL should auto-select when clicked		trivial
+24640		Changing home page in prefs causes display strangeness 		trivial
+25072		input buffer clearing.		trivial
+25480		html interpretation		trivial
+25374		One cannot read into the new created .mozilla directory 		trivial
+25258		Selected FORM fields do not redraw		trivial
+25894		[PP] Keyboard accelerators display incorrectly in Windows 2000		trivial
+17092		[PP] Shrinking height of browser yields premature scroll bar disappearance		trivial
+29483		Two column table has center column line staggered		trivial
+441		testing 		trivial
+25680		Mozilla wraps <BR>'s line break		trivial
+32413		Status Stripe Bar layout not correct.		trivial
+28010		browzer displays a border around the image asociated with a <input type=image> tag		trivial
+36030		Menus remain highlighted		trivial
+36393		Scrolling Javascript accross bottom of screen not refreshed		trivial
+35058		[RFE] Grip on Horizontal Scrollbar Looks Strange		trivial
+39399		use of german special chars like ö (&ouml) cause dproblem		trivial
+39687		strange column expansion		trivial
+40397		URL Has moved.		trivial
+38367		Make Ctrl Key Combos Align on Menus		trivial
+41107		placing mouse pointer over views causes a grey box w/ hyperlink to replace the graphics image		trivial
+24806		Adding a component doesn't verify the owner address		trivial
+41890		The table seems to be stretched a lot (3-4 times more width than with Microsoft IE or Netscape NN)		trivial
+41893		no space left around table		trivial
+42643		CSS Link Highlight		trivial
+43765		Composer's tooltips suck		trivial
+43156		Scrolling gets 'stuck' after right click while scrolling		trivial
+44205		M16 shows meta-infos		trivial
+45497		Tool Tips remain after loading new page		trivial
+41187		Wrong name for sound icon image.		trivial
+46242		Auotcompletion not working being browser sessions		trivial
+46246		malformed GET requests		trivial
+46896		There is a period in the title of this page		trivial
+28357		UNCONFIRMED -- doesn't show up in My Bugs		trivial
+43717		Top & bottom margins compatibility w/ Nav4		trivial
+48223		When end of line reached in TEXTAREA, a space is added to the beginning of next line 		trivial
+48376		Minor little rendering bug: Moz drops whitespace after nested <dl> lists and a <code> tag		trivial
+46885		Mozilla ignores right-alignment		trivial
+49008		Dismiss dialogs w/ return key = no depression		trivial
+53536		Want titles on all windows		trivial
+50242		Netscape logo misplaced on confirm/progress dialog using Large Fonts		trivial
+44206		Extra highlight in dropdown box when style changed		trivial
+20022		Mouseover does not occur after menu goes away.		trivial
+58673		Small conformance bug with spider monkey		trivial
+55063		SELECTs with size > 1 do not size properly (are too large)		trivial
+58456		navbar images leave black rectangle, when clicked		trivial
+59895		OS/2 - Import image dialog has wrong title		trivial
+41577		dragging the mouse off of the arrows on page scrollbars does not allow one to drag back on to continue scrolling		trivial
+48039		Right-click in history windows brings up tiny square		trivial
+58212		forms in hidden layer not completely invisible		trivial
+47579		Statusbar claims Moz is requesting current page from last site visited		trivial
+63205		The I-Beam cursor isn't at the right place when clicking in a text field after a text move upper. 		trivial
+59598		incorrect printing elements		trivial
+58229		Typo in XML parser error (a end tag -> an end tag)		trivial
+64058		When a site fails to respond, or network settings are incorrectly set up, the user receives in uniformative dialog "(site name)cannot be found.  Check the spelling and try again.		trivial
+45131		DNS lookup error nmotices should be able to be disabled		trivial
+53549		open link in new window gives focus to the wrong widget.		trivial
+65020		the entry line jumps over to the far left e entry line jumps over to the far left of the window when one begins entering data.of the window when one begins entering data.		trivial
+65344		Scrolling when timeout alert popup occurs - continued scrolling with no mouse buttons depressed 		trivial
+65279		Can't open a menu if back menu history is open		trivial
+62730		[nitpick] how to handle zipcode et al.?		trivial
+67184		[REGRESSION] JS Console doesn't wrap long lines		trivial

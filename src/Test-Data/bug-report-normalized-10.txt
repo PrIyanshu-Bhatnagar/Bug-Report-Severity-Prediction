@@ -1,0 +1,67 @@
+818		debugging output obfuscating query		normal
+858		JavaScript and Java (and plugins?  All executable content?) auto-disable per-domain RFE		normal
+785		Crash in DidBuildModel()		normal
+930		Unordered lists markers do not rendering correctly when nested		normal
+977		CSS font-style: italics shows as normal text		normal
+983		CSS color: RGB 6digit aqua shows as black		normal
+939		"Save Link As" Problem		normal
+974		CSS font-size: "ex" is showing as xxsmall		normal
+1097		crypto.SignText() problem		major
+1223		This page crashes NGLayout		critical
+1252		javascript and frames: document.open causes gp-trap		major
+1320		Clicking on links on this URL breaks layout; doesn't load link		major
+1224		This frameset page never appears		critical
+1463		XPViewer sucks resources resizing/maximizing on win95		critical
+1379		crash because table frame has a displayType of inline		critical
+1427		Image maps are not clickable		major
+1256		2 problems, 1 is a crash		critical
+1533		FTP URLs crash 11.23.98 XPViewer App on Win98		major
+1549		crash on bogus urls (xpviewer and viewer)		major
+1420		opening a local file with an image crashes		critical
+1502		assertion in line layout		critical
+1527		Crash occurs in loading up the file with background info.		major
+1146		the DOM memory leak is enourmous...		major
+1157		AVI and WAV OBJECTs won't play but crash instead		critical
+1356		Bogus Image URL (relative) crashes NGLayout		critical
+1417		Plugin handling code creates temporary files but they are never deleted		minor
+1375		Crash in Parser after visiting page with plugin		major
+1506		www.smh.com.au crash		critical
+1553		gif does not lay out across table		minor
+1631		Freze during page loading		major
+1616		Links are no underlined.		minor
+1933		table displays incorrectly - <hr> seems to create a new row		minor
+1948		lots of resource files not there for linux		minor
+1302		minor table snafu on this page when viewed using NGViewer		trivial
+2419		Rendering a strong tag add vertical space to that line of text.		minor
+1821		CSS Letter Spacing		minor
+2504		Form elements don't look like links to the user.		enhancement
+454		codepage 1252 quote characters not mapped properly		trivial
+2749		Comments are incorrectly parsed: <!-- -- --> inside comment! <!-- -- -->		minor
+3016		99020415: Incorrect layout in intel.com image		minor
+3026		990204[PP]: Text appears too large for column		trivial
+3400		size attribute on bottons has no effect		minor
+2928		Annoying loss of information.		trivial
+273		Menu speed wrong for custom menus. (Like bookmarks)		trivial
+1517		minimum width of floating elements		enhancement
+5117		Enable AppleEvents in seamonkey		enhancement
+5936		[block:editor]SELECT onChange JavaScript hanlder doesn't work right		blocker
+5949		Frequent resizing of window causes apprunner to stop drawing		blocker
+5940		[BLOCK] Crash in nsUnicharStreamLoader		blocker
+6128		apprunner built 1999-05-06 just dumps core		blocker
+5993		[BLOCKED] nsHTMLInputElement has a pointer to nsIWidget		blocker
+6367		Forms not submitting		blocker
+1049		CSS list-style-position not supported		enhancement
+6663		Stopper - Mac build - crashes on start up		blocker
+6867		[Blocker]Events being delivered to the wrong window 		blocker
+1046		CSS word-spacing and letter-spacing		enhancement
+6896		Windows editor interpres the '.' key as a forward delete		blocker
+1515		dotted borders		enhancement
+3247		:before and :after pseudo-elements		enhancement
+7246		GTK Edit & Buttons not changing theme		trivial
+7155		view | character set | mac roman displays twice		trivial
+7156		view | character set | baltic rim… should read baltic…		trivial
+7380		Support all prefs on a URL by URL basis.		enhancement
+4604		alert(), confirm(), prompt() enhancement		enhancement
+7887		Luser Request: End jerk-motion of image loading		enhancement
+8069		Cookie text appearing above banners of bug lists in MSIE 5.0 		trivial
+7674		Incorrect password entry char for INPUT TYPE="PASSWORD" form element		trivial

@@ -1,9 +1,9 @@
-"major"	29960
+"major"	35890
 "minor"	19447
-"normal"	29800
+"normal"	99797
 "trivial"	7713
 "enhancement"	23423
 "\tcritical"	1
 "\tmajor"	1
 "blocker"	3692
-"critical"	29973
+"critical"	31940
