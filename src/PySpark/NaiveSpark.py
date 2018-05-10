@@ -56,7 +56,8 @@ if __name__ == "__main__":
     sc = spark.sparkContext
     start_time = time.time()
     # Upload Raw data
-    raw_data = sc.textFile('../Test-Data/bug-report-normalized-{}.txt'.format(sys.argv[1]))
+    path = sys.argv[1].split("hdfs://master-virtualbox:9000")[1]
+    raw_data = sc.textFile(path)
     # filter data
     filter_data = raw_data.filter(lambda l: len(l.strip().split("\t\t"))%3 == 0)
     # Preparing features
@@ -88,5 +89,6 @@ if __name__ == "__main__":
     print('Accuracy: ', accuracy*100, "%")
     print('Time: ', elapsed_time)
     # Save and load model
-    model.save(sc, "Target/myNaiveBayesModel-{}".format(sys.argv[1]))
+    inputname, ext = path.split(".")
+    model.save(sc, "Target/{}-{}".format(inputname, time.time()))
     # sameModel = NaiveBayesModel.load(sc, "Target/myNaiveBayesModel-{}"format(sys.argv[1]))
