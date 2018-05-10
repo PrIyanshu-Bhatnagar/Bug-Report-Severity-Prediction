@@ -57,7 +57,7 @@ if __name__ == "__main__":
     start_time = time.time()
     # Upload Raw data
     path = sys.argv[1].split("hdfs://master-virtualbox:9000")[1]
-    raw_data = sc.textFile(path)
+    raw_data = sc.textFile(sys.argv[1])
     # filter data
     filter_data = raw_data.filter(lambda l: len(l.strip().split("\t\t"))%3 == 0)
     # Preparing features
