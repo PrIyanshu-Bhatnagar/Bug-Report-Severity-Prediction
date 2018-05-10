@@ -90,5 +90,5 @@ if __name__ == "__main__":
     print('Time: ', elapsed_time)
     # Save and load model
     inputname, ext = path.split(".")
-    model.save(sc, "Target/{}-{}".format(inputname, time.time()))
+    model.save(sc, "Target/{}-{}".format("NaiveModel", time.time()))
     # sameModel = NaiveBayesModel.load(sc, "Target/myNaiveBayesModel-{}"format(sys.argv[1]))
